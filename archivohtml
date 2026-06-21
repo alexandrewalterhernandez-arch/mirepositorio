@@ -2,10 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8"
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1v.0">
         <tittle>Document</tittle>
 </head>
 <body>
+    <h1>hola mundo</h1>
+    <p>lorem ipsum dolor sit amet consectetur adipisicing elit. Illum in doloribus non
+    quaerat repudiandae quam recusandae corporis voluptatum, nemo atque, dicta rem ea? Quo
+    similique optio et accusamus! Ex, illo!</p>
+
     
 </body>
 </html>
