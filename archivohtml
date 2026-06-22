@@ -6,7 +6,7 @@
         <tittle>Document</tittle>
 </head>
 <body>
-    <h1>Walter Urbina</h1>
+    <h1 style="Color: blue">Walter Urbina</h1>
     <h2>subtitulo</h2>
     <p>lorem ipsum dolor sit amet consectetur adipisicing elit. Illum in doloribus non
     quaerat repudiandae quam recusandae corporis voluptatum, nemo atque, dicta rem ea? Quo
